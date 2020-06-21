@@ -168,9 +168,7 @@ li > a {
 }
 /*--about--*/
 .about {
-    margin-top:  calc(-39px - 4.6vw);
     padding: 6vw 16vw;
-    border-top: calc(39px + 4.6vw) solid transparent;
 }
 
 h3 {
