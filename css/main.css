@@ -238,7 +238,7 @@ h4 {
 h4:after {
     content: '”';
     position: absolute;
-    top: -20px;
+    top: -30px;
     left: -20px;
     font-size: 300px;
     color: #ffffff;
