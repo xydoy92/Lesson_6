@@ -239,7 +239,7 @@ h4:after {
     top: 150px;
     left: -20px;
     font-size: 300px;
-    line-height: 0px;
+    line-height: 0;
     color: #ffffff;
     opacity: 0.2;
 }
